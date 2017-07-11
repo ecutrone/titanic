@@ -7,7 +7,6 @@ more preprocessing could improve model (e.g., encode age as child/adult/elderly;
 
 decisiontree_titanic--decision tree model
 less preprocessing is necessary
-need to deal with NaN's in Age data (use the mean? seems like it would get noisy but maybe not as bad as deleting ~200 entries...)
-
+replaced NaN's in Age data with the mean age of all the others.
 
 
